@@ -17,4 +17,4 @@ config.pyc
 commands
 venv
 output
-config.yaml
+./docker/influxdb/*

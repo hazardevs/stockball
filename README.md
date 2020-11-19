@@ -1,4 +1,4 @@
-# StockBall
+# StockBall ![](./documentation/images/stock-logo.png)
 
 Every football player in Premier League in a trading system. 😃 ⚽ 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 
