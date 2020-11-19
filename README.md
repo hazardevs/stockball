@@ -23,3 +23,8 @@ Go to [`http://localhost:3000`](http://localhost:3000) (admin/admin)
 ![Player Performance](./documentation/images/performance.png) 
 
 ###### Salah performance by minute in Game 8 (Manchester City VS Liverpool) on 2020-11-08.
+
+
+![H2H Performance](./documentation/images/h2h.png) 
+
+###### Salah VS Mane performance.

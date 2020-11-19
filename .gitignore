@@ -10,9 +10,6 @@ __init__.py
 *.svm
 *.pkl
 *.csv
-config.yml
-config.yaml
-config.pyc
 *.model
 commands
 venv
